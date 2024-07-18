@@ -50,7 +50,7 @@
   <tr>
     <td>1.</td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/1170/1170576.png" width=50 height=50></td>
-    <td><a target="_blank" href="https://shopping-cart-nine-lilac-38.vercel.app/index.html">Shopping Cart[Javascript]</a></td>
+    <td><a target="_blank" href="https://shopping-cart-nine-lilac-38.vercel.app/index.html"> Shopping Cart [ Javascript ]</a></td>
 </tr>
 
 
