@@ -36,3 +36,18 @@
 
 ### 🔥🤖 About me
 - 💼 Full Stack Developer at [Kumo Solutions Mandalay] [July 2023 - Present]
+
+
+  <table align="center">
+    <tr>
+        <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
+    </tr>
+   <tr>
+    <td>1.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=50 height=50></td>
+    <td><a target="_blank" href="https://shopping-cart-nine-lilac-38.vercel.app/index.html">
+        <img src="https://img.shields.io/badge/Shopping%20Cart-%23FF6347.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Shopping Cart [Javascript]">
+    </a></td>
+</tr>
+
+  </table>
