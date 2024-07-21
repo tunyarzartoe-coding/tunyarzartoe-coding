@@ -43,15 +43,20 @@
 
 
 
-  <table align="center">
+  <table align="center" width="400px">
     <tr>
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
-  <tr>
+    <tr>
     <td>1.</td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/1170/1170576.png" width=50 height=50></td>
     <td><a target="_blank" href="https://shopping-cart-nine-lilac-38.vercel.app/index.html"> Shopping Cart [ Javascript ]</a></td>
-</tr>
+    </tr>
+     <tr>
+    <td>1.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/6451/6451205.png" width=50 height=50></td>
+    <td><a target="_blank" href="https://react-weather-app-eta-bay.vercel.app/"> Weather App [ React ]</a></td>
+    </tr>
 
 
   </table>
