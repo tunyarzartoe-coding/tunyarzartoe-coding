@@ -13,6 +13,15 @@
 <a href="https://linkedin.com/in/tunyarzartoe" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+[![wakatime](https://wakatime.com/badge/user/cf23b6e3-75f8-4c04-b0e3-273191c8d2ec.svg)](https://wakatime.com/@cf23b6e3-75f8-4c04-b0e3-273191c8d2ec)
+
+<br/>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%204%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.2%20million%20lines%20of%20code-blue)
+
 
 ### 💻 Main Tech Stack
 
