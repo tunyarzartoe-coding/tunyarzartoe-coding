@@ -38,16 +38,7 @@
 - 💼 Learning Web Development at [Host Myanmar - Mandalay] [October 2022 - April 2023]
 - 💼 Technical Staff at [YSK Japanese Language School ] [July 2022 - February 2023]
 
-<style>
-  table.custom-width {
-    width: 600px;
-  }
-  table.custom-width td {
-    padding: 10px;
-  }
-</style>
-
-<table align="center" class="custom-width">
+<table align="center" >
   <tr>
     <td colspan="3"><h3 align="center">🚀 Projects 🚀</h3></td>
   </tr>
