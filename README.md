@@ -43,7 +43,7 @@
 
 
 
-  <table align="center" width="400px">
+  <table align="center" width=400>
     <tr>
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
