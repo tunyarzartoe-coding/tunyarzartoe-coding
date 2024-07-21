@@ -1,7 +1,7 @@
 ## Hello friends 🤟, I am Tun Yar Zar Toe! ⚡
 🔥 C# / ASP.NET Core / React / Node 🔥
 
-> I am a Full Stack developer from Burma. I am currently working on multiple projects at Kumo Solutions Mandalay.
+> I am a web developer from Burma. I am currently working on multiple projects at Kumo Solutions Mandalay.
 
 ---
 <a href="https://github.com/tunyarzartoe-coding" target="_blank">
