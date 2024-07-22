@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bf4af094-082e-4466-a62c-bfa9b73ff1e9)## Hello friends 🤟, I am Tun Yar Zar Toe! ⚡
+## Hello friends 🤟, I am Tun Yar Zar Toe! ⚡
 🔥 C# / ASP.NET Core / React / Node 🔥
 
 > I am a web developer from Burma. I am currently working on multiple projects at Kumo Solutions Mandalay.
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>3.</td>
-    <td><img src="(https://github.com/user-attachments/assets/a00a82d9-9ac4-4760-bfb8-972f5c03d177)" width=50 height=50></td>
+    <td><img src="https://github.com/user-attachments/assets/a00a82d9-9ac4-4760-bfb8-972f5c03d177" width=50 height=50></td>
     <td><a target="_blank" href="https://react-calculator-app-iota-two.vercel.app/"> Calculator App [ React ]</a></td>
   </tr>
   <tr>
