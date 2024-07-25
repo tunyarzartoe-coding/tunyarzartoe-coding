@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>4.</td>
-    <td><img src="https://github.com/user-attachments/assets/a00a82d9-9ac4-4760-bfb8-972f5c03d177" width=50 height=50></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/891/891175.png" width=50 height=50></td>
     <td><a target="_blank" href="https://react-calculator-app-sandy.vercel.app/"> Calculator App [ React ]</a></td>
   </tr>
   <tr>
