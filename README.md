@@ -1,5 +1,5 @@
 ## Hello friends 🤟, I am Tun Yar Zar Toe! ⚡
-🔥 C# / ASP.NET Core / React / Node 🔥
+🔥 React JS / Node JS / C# / ASP.NET Core  🔥
 
 > I am a web developer from Burma. I am currently working on multiple projects at Kumo Solutions Mandalay.
 
