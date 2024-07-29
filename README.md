@@ -45,7 +45,7 @@
    <tr>
     <td>5.</td>
     <td><img src="https://cdn-icons-png.flaticon.com/128/719/719680.png" width=50 height=50></td>
-    <td><a target="_blank" href="https://react-social-app-beta.vercel.app/"> Social  App [ React ]</a></td>
+    <td><a target="_blank" href="https://react-social-app-gules.vercel.app/"> Social  App [ React ]</a></td>
   </tr>
   <tr>
     <td>4.</td>
