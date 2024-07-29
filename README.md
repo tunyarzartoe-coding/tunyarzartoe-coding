@@ -42,6 +42,11 @@
   <tr>
     <td colspan="3"><h3 align="center">🚀 Projects 🚀</h3></td>
   </tr>
+   <tr>
+    <td>4.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/719/719680.png" width=50 height=50></td>
+    <td><a target="_blank" href="https://react-social-app-beta.vercel.app/"> Social  App [ React ]</a></td>
+  </tr>
   <tr>
     <td>4.</td>
     <td><img src="https://cdn-icons-png.flaticon.com/128/891/891175.png" width=50 height=50></td>
