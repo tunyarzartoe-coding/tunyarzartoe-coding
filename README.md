@@ -51,7 +51,7 @@ public class Person
     {
         Name = "Tun Yar Zar Toe";
         Age = 23;
-        Postion = "Web Developer";
+        Position = "Web Developer";
         Work = new List<string> { "Kumo Solutions Mandalay", "Evercomm Singapore Pte Ltd", "CO2 Connect (CO2X)" };
         Education = new List<string> { "Technological University, Mandalay", "Self-Learning", "Online Courses" };
         Hobbies = new List<string> { "Coding", "Reading", "Traveling","Football" };
