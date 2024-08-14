@@ -1,4 +1,4 @@
-## Hello friends 🤟, I am Tun Yar Zar Toe! ⚡
+## Hey 👋, I'm Tun Yar Zar Toe!  
 🔥 React JS / Node JS / C# / ASP.NET Core  🔥
 
 > I am a web developer from Burma. I am currently working on multiple projects at Kumo Solutions Mandalay.
@@ -30,7 +30,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 <h3>How I'd define myself...literally</h3>
 
