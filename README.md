@@ -97,36 +97,5 @@ class Program
 - 💼 Learning Web Development at [Host Myanmar - Mandalay] [October 2022 - April 2023]
 - 💼 Technical Staff at [YSK Japanese Language School ] [July 2022 - February 2023]
 
-<table align="start">
-  <tr>
-    <td colspan="3"><h3 align="center">🚀 Projects 🚀</h3></td>
-  </tr>
-   <tr>
-    <td>5.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/128/719/719680.png" width=50 height=50></td>
-    <td><a target="_blank" href="https://react-social-app-gules.vercel.app/"> Social  App [ React ]</a></td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/128/891/891175.png" width=50 height=50></td>
-    <td><a target="_blank" href="https://react-calculator-app-sandy.vercel.app/"> Calculator App [ React ]</a></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/128/6451/6451205.png" width=50 height=50></td>
-    <td><a target="_blank" href="https://react-weather-app-eta-bay.vercel.app/"> Weather App [ React ]</a></td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/1170/1170576.png" width=50 height=50></td>
-    <td><a target="_blank" href="https://shopping-cart-nine-lilac-38.vercel.app/index.html"> Shopping Cart [ Javascript ]</a></td>
-  </tr>
-    <tr>
-    <td>1.</td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-redux-2336949-1982830.png?f=webp&w=256" width=50 height=50></td>
-    <td><a target="_blank" href="https://redux-counter-app-orcin.vercel.app/"> Counter App [ React Redux ]</a></td>
-  </tr>
-  
-</table>
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tunyarzartoe-coding&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunyarzartoe-coding&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
