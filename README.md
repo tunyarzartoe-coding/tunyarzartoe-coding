@@ -33,58 +33,59 @@
 
 <h3>How I'd define myself...literally</h3>
 
- ```C#
-using System;
-using System.Collections.Generic;
-
-public class Person
-{
-    public string Name { get; set; }
-    public int Age { get; set; }
-    public string Position { get; set; }
-    public List<string> Work { get; set; }
-    public List<string> Education { get; set; }
-    public List<string> Hobbies { get; set; }
-
-    public Person()
-    {
-        Name = "Tun Yar Zar Toe";
-        Age = 23;
-        Position = "Web Developer";
-        Work = new List<string> { "Kumo Solutions Mandalay", "Evercomm Singapore Pte Ltd", "CO2 Connect (CO2X)" };
-        Education = new List<string> { "Technological University, Mandalay", "Self-Learning", "Online Courses" };
-        Hobbies = new List<string> { "Coding", "Reading", "Traveling","Football" };
+ ```JavaScript
+ class Person {
+    constructor() {
+        this.name = "Tun Yar Zar Toe";
+        this.age = 23;
+        this.position = "Web Developer";
+        this.work = [
+            "Kumo Solutions Mandalay",
+            "Evercomm Singapore Pte Ltd",
+            "CO2 Connect (CO2X)"
+        ];
+        this.education = [
+            "Technological University, Mandalay",
+            "Self-Learning",
+            "Online Courses"
+        ];
+        this.hobbies = [
+            "Coding", 
+            "Reading", 
+            "Traveling", 
+            "Football"
+        ];
     }
 
-    public string CurrentLocation()
-    {
+    getCurrentLocation() {
         return "Mandalay, Myanmar";
     }
 
-    public List<string> NextLocations()
-    {
-        return new List<string> { "Yangon, Myanmar", "Tokyo, Japan", "Singapore" };
+    getNextLocations() {
+        return ["Yangon, Myanmar", "Tokyo, Japan", "Singapore"];
     }
 
-    public Dictionary<string, List<string>> Currently()
-    {
-        return new Dictionary<string, List<string>>
-        {
-            { "Studying", new List<string> { "Advanced JavaScript", "React.js", "Tailwind CSS" } },
-            { "Reading", new List<string> { "Clean Code", "You Don’t Know JS", "JavaScript: The Good Parts" } },
-            { "Tinkering", new List<string> { "Portfolio Website", "Weather App", "Carbon Footprint Calculator" } }
+    getCurrentActivities() {
+        return {
+            studying: [
+                "Advanced JavaScript", 
+                "React.js", 
+                "Tailwind CSS"
+            ],
+            reading: [
+                "Clean Code", 
+                "You Don’t Know JS", 
+                "JavaScript: The Good Parts"
+            ],
+            tinkering: [
+                "Portfolio Website", 
+                "Weather App", 
+                "Carbon Footprint Calculator"
+            ]
         };
     }
 }
-
-class Program
-{
-    static void Main()
-    {
-        var tun = new Person();
-    }
-}
-
+const tun = new Person();
  ```
  
 <br>
