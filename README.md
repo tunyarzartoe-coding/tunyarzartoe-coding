@@ -96,10 +96,10 @@ const tun = new Person();
 <br>
 🔥🤖 About me
 
-- 💼 Web Developer at [Kumo Solutions Mandalay] [July 2023 - Present]
-- 💼 On Job Training at [Host Myanmar - Mandalay] [May 2023 - June 2023]
-- 💼 Learning Web Development at [Host Myanmar - Mandalay] [October 2022 - April 2023]
-- 💼 Technical Staff at [YSK Japanese Language School ] [July 2022 - February 2023]
+- 💼 Web Developer [Kumo Solutions Mandalay] [July 2023 - Present]
+- 💼 On Job Training [Host Myanmar - Mandalay] [May 2023 - June 2023]
+- 💼 Learning Web Development [Host Myanmar - Mandalay] [October 2022 - April 2023]
+- 💼 Technical Staff [YSK Japanese Language School ] [July 2022 - February 2023]
 <br>
 
 <a href="https://tunyarzartoe.vercel.app/" target="_blank"> 
