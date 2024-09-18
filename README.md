@@ -71,7 +71,7 @@ class Person {
     }
 
     getNextLocations() {
-        return ["Yangon, Myanmar", "Tokyo, Japan", "Singapore"];
+        return ["Yangon, Myanmar", "Tokyo, Japan"];
     }
 
     getCurrentActivities() {
