@@ -1,4 +1,4 @@
-## Hey 👋, I'm Tun Yar Zar Toe!  
-🔥 JavaScript / React JS / Node JS / C# / ASP.NET Core  🔥
+Hey 👋, I'm Tun Yar Zar Toe!  
+Java / JavaScript / React JS / Node JS / C# / ASP.NET Core  
 
-> I am a web developer.
+I am a software engineer.
